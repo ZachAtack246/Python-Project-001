@@ -4,8 +4,8 @@ Skitarii_Vanguard_Equip=["Archeotech pistol", "Arc rifle", "Plasma caliver", "Ra
 Skitarii_Ranger_Equip=["Archeotech pistol", "Arc rifle", "Galvanic rifle", "Plasma caliver", "Transuranic arquebus", "Alpha combat weapon", "Close combat weapon"]
 Kataphron_Breacher_Equip=["Heavy arc rifle", "Torsion cannon", "Arc claw", "Hydraulic claw"]
 Kataphron_Destroyer_Equip=["Cognis flamer", "Heavy grav-cannon", "Kataphron plasma culverin", "Phosphor blaster", "Close combat weapon"]
-Tech_Priest_Enginseer_Equip=["Archeotech pisto", "Omnissian axe", "Servo-arm"]
-Onager_Dunecrawler_Equip=["Cognis heavy stubber", "	Daedalus missile launcher", "Eradication beamer", "Neutron laser", "Icarus array", ]
+Tech_Priest_Enginseer_Equip=["Archeotech pistol", "Omnissian axe", "Servo-arm"]
+Onager_Dunecrawler_Equip=["Cognis heavy stubber", "Daedalus missile launcher", "Eradication beamer", "Neutron laser", "Icarus array", ]
 
 #Compiles All lists into one Tuple
 Admech_Combat_Patrol_Roster=[Skitarii_Vanguard_Equip, Skitarii_Ranger_Equip, Kataphron_Breacher_Equip, Kataphron_Destroyer_Equip]
