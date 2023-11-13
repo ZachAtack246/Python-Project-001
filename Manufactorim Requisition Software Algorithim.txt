@@ -1,0 +1,6 @@
+1. Compile each unit's wargear into a single list
+2. Compile each list into a tuple called Admech_Combat_Patrol_Roster
+3. Ask the user for an input of a/b/c/d/e/f/end
+4. Cycle through the list to see if there is any match with input
+5. Depending on the input, print out each List according to the assigned letter, repeat 3 and 4
+6. if end is typed, terminate the program

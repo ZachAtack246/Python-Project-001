@@ -33,7 +33,7 @@ while True:  # Infinite loop
         print("Printing: Tech Priest Enginseer Wargear: " + ", ".join(Tech_Priest_Enginseer_Equip))
     elif load_view == "F" or load_view == "f":
         print("Printing: Onager_Dunecrawler Wargear: " + ", ".join(Onager_Dunecrawler_Equip))
-    elif load_view == "END":
+    elif load_view == "END" or load_view == "end":
         end_set = 1
         break  # Exit the loop immediately
     else:
